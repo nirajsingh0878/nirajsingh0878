@@ -1,4 +1,4 @@
-## Hi there, I am Niraj 👋
+# 🌍 Hello World, Niraj here 👨‍💻
 
 
 
