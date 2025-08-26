@@ -7,7 +7,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirajsingh0878@gmail.com) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nirajsingh0878) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/_niraj.exe_)
-
+<!--
 #  🛠️  Tech Arsenal :
 #### Core Languages & Tools
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
